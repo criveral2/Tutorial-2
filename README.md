@@ -1,5 +1,5 @@
 
- 	PRÁCTICA DE LABORATORIO 
+<pre> 	PRÁCTICA DE LABORATORIO 
 
 CARRERA: Computación	
 ASIGNATURA: HIPERMEDIAL
@@ -7,7 +7,7 @@ NRO. PRÁCTICA:	3
 TÍTULO PRÁCTICA: Tutorial 2
 OBJETIVO ALCANZADO:
 Diseñar sitios web utilizando los respectivos estándares actuales e implementando diferentes estilos gráficos para crear paginas iterativas para el usuario.
-El desarrollo del taller ayudó al buen manejo y al aprendizaje del estudiante sobre los sitios web.
+El desarrollo del taller ayudó al buen manejo y al aprendizaje del estudiante sobre los sitios web.</pre>
 
 ACTIVIDADES DESARROLLADAS
 Tri and Succeed Sports:
@@ -318,7 +318,7 @@ Guarde sus cambios en el archivo y luego vuelva a cargar el archivo tss_home.htm
 navegador. 
 
 
-
+<pre>
 información de GitHub
 Usuario: criveral2
 Correo: criveral2@est.ups.edu.ec
@@ -333,7 +333,7 @@ RECOMENDACIONES:
 Probar la solución de la práctica en al menos tres navegadores web; Google Chrome, Firefox y Safari, además, probar la verificación de un validador de paginas web. 
 
 Nombre de estudiante: ___Christian Rivera__________________________
-
+</pre>
 
 
 
